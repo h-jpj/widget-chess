@@ -2,6 +2,8 @@
 
 A translucent chess widget for Linux desktops that enables long-term games between two players, either locally or over a network connection.
 
+This project will take a break due to being in student accomadation and not being able to test the networking since I cannot portward here sadly.
+
 ![Widget Chess Screenshot](https://github.com/yourusername/widget_chess/raw/main/resources/screenshot.png)
 
 ## 🌟 Features
